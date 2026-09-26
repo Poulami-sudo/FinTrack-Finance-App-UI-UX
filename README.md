@@ -37,23 +37,22 @@ FinTrack is a personal finance app concept designed to help users manage their i
 ## Final UI Screens
 
 ### Home
-![Home](Home.png)
+![Home](Home%20%E2%80%94%20Final%20UI.png)
 
 ### Add Transaction
-![Add Transaction](Add-Transaction.png)
+![Add Transaction](Add%20Transaction%20%E2%80%94%20Final%20UI.png)
 
 ### Transactions
-![Transactions](Transactions.png)
+![Transactions](Transactions%20%E2%80%94%20Final%20UI.png)
 
 ### Budget
-![Budget](Budget.png)
+![Budget](Budget%20%E2%80%94%20Final%20UI.png)
 
 ### Analytics
-![Analytics](Analytics.png)
+![Analytics](Analytics%20%E2%80%94%20FINAL%20UI.png)
 
 ### Profile
-![Profile](Profile.png)
-
+![Profile](Profile%20%E2%80%94%20Final%20UI.png)
 ## Tools Used
 
 - Figma
