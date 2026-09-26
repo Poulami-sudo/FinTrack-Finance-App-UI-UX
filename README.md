@@ -53,6 +53,7 @@ FinTrack is a personal finance app concept designed to help users manage their i
 
 ### Profile
 ![Profile](Profile%20%E2%80%94%20Final%20UI.png)
+
 ## Tools Used
 
 - Figma
